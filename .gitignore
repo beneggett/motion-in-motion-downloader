@@ -1,0 +1,7 @@
+/.bundle/
+/Gemfile.lock
+/tmp/
+/episodes
+/.env
+/.ruby-version
+/.ruby-gemset
